@@ -2,7 +2,10 @@
 Hello and welcome to my GitHub profile!
 
 ### 📚 About Me
-My name is [@AskoiDev](https://github.com/AskoiDev/ 'AskoiDev') but people usually call me Askoi. I'm just a 14 years old student from Malaysia. I'm mostly intersted in language designs and APIs. Hoping to be a game developer at Japan one day.
+My name is [@AskoiDev](https://github.com/AskoiDev/ 'AskoiDev') but I usually goes by the name Askoi.\
+I'm just a 14 years old student from Malaysia.\
+I'm mostly intersted in language designs and APIs.\
+Hoping to be a game developer at Japan one day.
 
 ### 🧠 What I'm currently learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
