@@ -18,9 +18,9 @@ Hoping to be a game developer at Japan one day.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 🏁 My activities
-<a href="https://github.com/ChizoDev/">
+<a href="https://github.com/AskoiDev/">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AskoiDev&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-<a href="https://github.com/ChizoDev/">
+<a href="https://github.com/AskoiDev/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AskoiDev&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
